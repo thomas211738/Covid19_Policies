@@ -1,6 +1,6 @@
-# DS310 Project Report 
+# COVID-19 policy efficiency 
 
-Team 13: Bader Alhodithi, Chung-Yeh Yang, Michael Hyder, Yilan Hu, Thomas Boles, Ziyao Tang
+By: Thomas Boles, Bader Alhodithi, Chung-Yeh Yang, Michael Hyder, Yilan Hu, Ziyao Tang
 
 ## Introduction
 Our group extracted, transformed, and loaded COVID-19 data to understand what policies were most effective in reducing cases and deaths. We were assigned the policies of contact tracing – no contact tracing, and international travel – no restrictions. We wanted to compare these policies to different levels of restriction within the same policy as well as relate our findings to the remainder of the policies. We wanted to solve the questions of which policies were most effective? Why are they so effective? And how can it be used in other countries to improve COVID-19 conditions?
